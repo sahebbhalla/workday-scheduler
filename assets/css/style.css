@@ -2,6 +2,8 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
   line-height: 1;
+  text-align: center;
+  margin: 3px;
 }
 
 textarea{
@@ -68,4 +70,17 @@ textarea{
 .saveBtn i:hover {
   font-size: 20px;
   transition: all .3s ease-in-out;
+}
+
+.container ul{
+  list-style: none;
+}
+.task-element{
+  text-align: left;
+  padding-top:30px;
+}
+.time-element{
+  text-align: right;
+  padding-top:30px;
+  border-top: solid 1px black;
 }
