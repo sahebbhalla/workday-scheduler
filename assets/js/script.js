@@ -1,7 +1,7 @@
 
 var tasks = [
-  { time: "9 AM", task: "Testing Task",index:0, timeFrame:9},
-  { time: "10 AM", task: "asdasd",index:1,timeFrame:10},
+  { time: "9 AM", task: "",index:0, timeFrame:9},
+  { time: "10 AM", task: "",index:1,timeFrame:10},
   { time: "11 AM", task: "",index:2 ,timeFrame:11},
   { time: "12 PM", task: "",index:3 ,timeFrame:12},
   { time: "1 PM", task: "",index:4 ,timeFrame:13},
